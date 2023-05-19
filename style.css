@@ -27,7 +27,7 @@ body{
 }
 }
 
-.principal-botao-2 {
+.principal-botao-2{
     background-color: transparent;
     border:1px solid var(--branco-principal);
     color: var(--branco-principal);
