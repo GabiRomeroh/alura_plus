@@ -84,6 +84,7 @@
     
     .secundaria-texto{
     color: var(--cinza-secundario);
+    font-family: Inter;
     }
 
     .secundaria-botao{
